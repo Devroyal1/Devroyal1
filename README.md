@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Devroyal1
-- 👀 I’m interested in ...python programming
-- 🌱 I’m currently learning ...python,java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...num-9440591213....throw mail...@devroyal1213
+## 👋 Hi, **I’m Devendranath**
+- # 👩‍💻 About Me
+I’m a Data Scientist passionate about solving real-world problems using data-driven approaches.  
+I love working on **EDA, ML Models, and Data Engineering workflows**.
+ 
+## 🔧 Tools & Technologies
+- Languages: Python, SQL
+- ML/DL: Scikit-learn, TensorFlow, PyTorch
+- Data: Pandas, NumPy, Spark
+- Cloud: Azure, AWS, Databricks
+- Visualization: Matplotlib, Seaborn, Power BI
 
 <!---
 Devroyal1/Devroyal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
